@@ -14720,3 +14720,20 @@ Continue to show this popup?
 [2022.10.29-10.56.47:064][371]LogContentValidation: Display: Validating VoxelSpawnerConfig /Game/1MainGame/Landscape/Foliage/VSC_DevEnv_Foliage.VSC_DevEnv_Foliage
 [2022.10.29-10.57.02:460][116]LogVoxel: Forcing GC
 [2022.10.29-10.57.02:515][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.10.29-10.57.36:922][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.29-10.57.36:985][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1MainGame/Levels/DevEnv" FILE="D:/mfg/UE5SuperHeroGame/SupeSandbox/Content/1MainGame/Levels/DevEnv.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.29-10.57.37:383][305]LogVoxel: Compressed 37.178186 MB in 0.240299s (154.716617 MB/s). Compressed Size: 6.709685 MB (18.047371%). Compression: 0.238132s (99.098413%). Num Chunks: 1.
+[2022.10.29-10.57.37:459][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.29-10.57.37:501][305]LogSavePackage: Moving output files for package: /Game/1MainGame/Levels/DevEnv
+[2022.10.29-10.57.37:502][305]LogSavePackage: Moving 'D:/mfg/UE5SuperHeroGame/SupeSandbox/Saved/DevEnv471C2FF74C2DAB1683D732BEABB47A0E.tmp' to 'D:/mfg/UE5SuperHeroGame/SupeSandbox/Content/1MainGame/Levels/DevEnv.umap'
+[2022.10.29-10.57.37:512][305]LogFileHelpers: Saving map 'DevEnv' took 0.529
+[2022.10.29-10.57.37:512][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Voxel/NewVoxelWorldSaveObject" FILE="D:/mfg/UE5SuperHeroGame/SupeSandbox/Content/Voxel/NewVoxelWorldSaveObject.uasset" SILENT=true
+[2022.10.29-10.57.37:516][305]LogSavePackage: Moving output files for package: /Game/Voxel/NewVoxelWorldSaveObject
+[2022.10.29-10.57.37:516][305]LogSavePackage: Moving 'D:/mfg/UE5SuperHeroGame/SupeSandbox/Saved/NewVoxelWorldSaveObject0CF3C9134CCC379F67FE32BD5752DBB6.tmp' to 'D:/mfg/UE5SuperHeroGame/SupeSandbox/Content/Voxel/NewVoxelWorldSaveObject.uasset'
+[2022.10.29-10.57.37:586][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1MainGame/Landscape/Foliage/VMG_Trees" FILE="D:/mfg/UE5SuperHeroGame/SupeSandbox/Content/1MainGame/Landscape/Foliage/VMG_Trees.uasset" SILENT=true
+[2022.10.29-10.57.37:588][305]LogSavePackage: Moving output files for package: /Game/1MainGame/Landscape/Foliage/VMG_Trees
+[2022.10.29-10.57.37:588][305]LogSavePackage: Moving 'D:/mfg/UE5SuperHeroGame/SupeSandbox/Saved/VMG_TreesCF115DC34936174F9541518CC9370F94.tmp' to 'D:/mfg/UE5SuperHeroGame/SupeSandbox/Content/1MainGame/Landscape/Foliage/VMG_Trees.uasset'
+[2022.10.29-10.57.37:696][305]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.29-10.57.37:696][305]LogContentValidation: Display: Validating VoxelMeshSpawnerGroup /Game/1MainGame/Landscape/Foliage/VMG_Trees.VMG_Trees
+[2022.10.29-10.57.37:696][305]LogContentValidation: Display: Validating VoxelWorldSaveObject /Game/Voxel/NewVoxelWorldSaveObject.NewVoxelWorldSaveObject
+[2022.10.29-10.57.37:696][305]LogContentValidation: Display: Validating World /Game/1MainGame/Levels/DevEnv.DevEnv
